@@ -1,0 +1,120 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.div1{
+background-image: url(home-bg.jpg);
+width: 100%;
+height: 80vh;
+}
+
+.p1{
+color: white;
+padding-left: 11%;
+padding-top: 2%;
+font-size: 180%;
+font-family: sans-serif;}
+
+.tb{
+    padding-left: 70%;
+    color: white;
+    font-size: 120%; 
+}
+
+.h1{
+color: white;
+text-align: center;
+padding-top: 10%;
+font-family: sans-serif;
+font-size: 700%;
+}
+
+.p2{
+    text-align: center;
+    font-size: 200%;
+    color: white;
+}
+
+.p3{
+    text-align: justify ;
+    font-size: 350%;
+    font-family: sans-serif;
+    margin-right: 28%;
+    margin-left: 25%;
+    font-weight: 700;
+}
+
+.p4{
+    font-size: 200%;
+    padding-left: 25%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+}
+
+.p5{
+    color: grey;
+    font-size: 150%;
+padding-left: 25%;
+font-family: cursive;
+
+}
+
+.hr {
+    width: 50%  ;
+    margin: auto;
+    color: grey;
+}
+
+.bt{
+    position: absolute;
+    left: 62%;
+    font-size: 120%;
+    font-family:sans-serif ;
+    border-radius: 3px;
+    color:white;
+    width: 13%;
+    height: 8vh;
+    background-color: rgb(8, 123, 218);
+    font-weight: 700;
+    margin-bottom: 7%;
+    border: none;
+}
+
+.hr1{
+    width: 100%;
+    color: grey;
+    font-weight: 100;
+}
+
+.p6{
+    text-align: center;
+    font-size: 300%;
+    font-family: sans-serif;
+    font-weight: 600%;
+}
+
+.p7{
+    text-align: center;
+    font-family: cursive;
+    font-size: 150%;
+    color: grey;
+}
+.hov:hover{
+    color: rgb(19, 106, 236);
+}
+.hov{
+    transition: 0.12s;
+}
+.hov2:hover{
+    color: rgb(208, 211, 212);
+}
+
+.hov2{
+    transition: 0.12s;
+}
+.home{
+    padding-right: 20%;
+    display: flex;
+    padding-top: 20%;
+}
